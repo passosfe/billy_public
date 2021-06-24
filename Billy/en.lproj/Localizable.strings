@@ -1,0 +1,186 @@
+/* 
+  Localizable.strings
+  Billy
+
+  Created by Felipe Passos on 13/11/20.
+  
+*/
+
+"home" = "Home";
+"objectives" = "Goals";
+"profile" = "Profile";
+
+"seeAll" = "See all";
+"defineYourLimits" = "No limits for this month";
+"registerFirstTransaction" = "No transactions this month";
+"categories" = "Categories";
+
+"totalBalance" = "Total balance";
+"available" = "Available";
+"frozen" = "Saved";
+
+"transactions" = "Transactions";
+"editAction" = "Edit";
+"save" = "Save";
+"category" = "Category";
+
+"week" = "Week";
+"month" = "Month";
+"year" = "Year";
+"weekSpendings" = "Week spendings";
+"monthSpendings" = "Month spendings";
+"yearSpendings" = "Year spendings";
+"spendings" = "Spendings";
+
+"onboardingOneTitle" = "Make your budget great again";
+"onboardingOneBody" = "With Billy, easier than ever";
+"onboardingTwoTitle" = "Billy and you, it's a match";
+"onboardingTwoBody" = "Your objective shall not pass! (after due date)";
+"onboardingThreeTitle" = "Collab with others";
+"onboardingThreeBody" = "Because saving together is a lot easier.";
+"next" = "Next";
+"start" = "Let's go";
+"skip" = "Skip";
+
+"initialBudget" = "My Budget";
+"mainBudget" = "Main Budget";
+"budget" = "Budget";
+
+"checking" = "Checking account";
+"savings" = "Savings";
+"investments" = "Investments";
+
+"edit" = "Edit";
+"read" = "Read";
+
+"currentBalance" = "Current Balance";
+"balance" = "Balance";
+"alias" = "Alias";
+"description" = "Description";
+"fillAllFields" = "Fill all fields";
+"create" = "Create";
+"new" = "New";
+"myAccount" = "My Account";
+"initialAccount" = "Initial Account";
+
+"selectToCreate" = "Select what yout want to create";
+"transaction" = "Transaction";
+"account" = "Account";
+"monthLimit" = "Monthly limit";
+
+"expense" = "Expense";
+"transfer" = "Transfer";
+"income" = "Income";
+
+"fromAccount" = "From Account";
+"toAccount" = "To Account";
+"date" = "Date";
+
+"limit" = "Limit";
+
+"days" = "days";
+"weeks" = "weeks";
+"months" = "months";
+"years" = "years";
+"formTitle" = "Title";
+"formValue" = "Ammount";
+"addMoney" = "Save";
+"withdraw" = "Withdraw";
+"history" = "History";
+"timeLeft" = "Time Left";
+"objective" = "Goal";
+"newMale" = "New";
+"registerFirstObjective" = "No objectives to registered";
+
+"mustNotBeEmpty" = " must not be empty";
+"mustBeAboveOf" = " must be above ";
+"mustBeUnderOf" = " must be under ";
+
+"categories.bills" = "Bills";
+"categories.education" = "Education";
+"categories.amusement" = "Amusement";
+"categories.fees" = "Fees";
+"categories.finance" = "Finance";
+"categories.food" = "Food";
+"categories.presents" = "Gifts";
+"categories.health" = "Health";
+"categories.housing" = "Housing";
+"categories.income" = "Income";
+"categories.investiment" = "Investment";
+"categories.children" = "Children";
+"categories.personalCare" = "Personal Care";
+"categories.pet" = "Pet";
+"categories.shopping" = "Shopping";
+"categories.taxes" = "Taxes";
+"categories.travel" = "Travel";
+"categories.transport" = "Transport";
+
+"welcomeBack" = "Welcome Back!";
+"createAccount" = "Create Account";
+"enterWithAccount" = "Sign in with your account";
+"registerAndKeep" = "Sign up and keep your budget in other devices";
+"signInWith" = "Sign in with ";
+"signUpWith" = "Sign up with ";
+"pronounO" = " ";
+"pronounA" = " ";
+"alreadyUser" = "Already have an account? Sign in ";
+"here" = "here";
+"logoutWarningMessage" = "You're not logged in, if you leave all your information will be lost.";
+"warning" = "Warning!";
+"leaveAnyway" = "Leave anyway";
+"logout" = "Logout";
+"deleteAccount" = "Delete my account";
+"register" = "Register";
+"deleteAccountWarning" = "Are you sure you want to delete your account? All your information will be lost";
+"confirmation" = "Yes";
+
+"accounts" = "Accounts";
+"accountName" = "Account name";
+"bankAccounts" = "Bank Accounts";
+"ops" = "Ops";
+"atLeastOneAccount" = "You must have at least one account";
+"total" = "Total";
+
+"userEmailNotFound" = "This email does not belong to any user.";
+"defaultError" = "An error occured";
+
+"subscription" = "Subscription";
+"reachedLimit" = "You've reached the limit for this action. Subscribe to continue without limits.";
+"chargedMonthly" = "Charged monthly";
+"per" = "per";
+"chargedAnnualy" = "charged annualy";
+"startYour" = "Start your";
+"freeTrial" = "free trial";
+"congratulations" = "Congratulations";
+"becomePremium" = "Become premium";
+"alreadyPremium" = "You're alredy premium";
+"subscribeAndUnlock" = "Subscribe and save without limits";
+"purchaseAcknowledgementText" = "Your subscription will automatically renew if automatic renewal is not deactivated at least 24 hours before the end of the subscription period. Payment is processed using your iTunes account, used to confirm your purchase. Managing your subscription can be done through account settings.";
+"termsOfUse" = "Terms of Service";
+"privacyPolicy" = "Privacy Policy";
+"restorePurchases" = "Restore purchases";
+"subscribe" = "Subscribe";
+"spare" = "Save";
+"unlockFullAccess" = "Unlock full access!";
+
+"permissions" = "Permissions";
+"add" = "Add";
+"me" = "Me";
+"emailToAdd" = "User email";
+"permission" = "Permission";
+"invitedYouTo" = "invited you to";
+"theBudget" = "the budget";
+"doYouAccept" = "Do you accept?";
+"accept" = "Accept";
+"reject" = "Reject";
+
+"notifications" = "Notifications";
+
+"collabUsers" = "Collab users";
+"categoryLimits" = "Category limits";
+"budgets" = "Budgets";
+"checkAllIncluded" = "Check everything that's included";
+"free" = "Free";
+"premium" = "Premium";
+"unlimited" = "Unlimited";
+"feature" = "Feature";
